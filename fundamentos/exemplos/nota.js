@@ -1,0 +1,1 @@
+const aluno = prompt("Qual nome do aluno")
